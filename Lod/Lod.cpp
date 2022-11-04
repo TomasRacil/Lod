@@ -4,7 +4,10 @@
 #include <iostream>
 
 class Ship {
-
+public:
+    int x;
+    int y;
+    char smer;
 };
 
 int main()
